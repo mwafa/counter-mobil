@@ -1,6 +1,6 @@
-# Aplikasi Conuter
+# Aplikasi Counter
 
-ini merupakan aplikasi counter yang dibuat pada saat pelatihan **Indonesia Android Kejar** yang dilaksanakan di **EDS UGM**
+Ini merupakan aplikasi counter yang dibuat pada saat pelatihan **Indonesia Android Kejar** yang dilaksanakan di **EDS UGM**
 
 ### Daftar Link
 
@@ -10,7 +10,7 @@ ini merupakan aplikasi counter yang dibuat pada saat pelatihan **Indonesia Andro
 
 Authon: **Muhammad Wafa**
 
-> Email &nbsp; [wafax.4@gmail.com](mailto:wafax.4@gmail.com)
-> Instagram &nbsp; [Edogawafa](https://www.instagram.com/edogawafa/)
-> [Facebook](https://www.facebook.com/muhammad.wafa.18)
-> Website &nbsp; [eiwafa.blogspot.com](https://eiwafa.blogspot.com/)
+> Email &nbsp; [wafax.4@gmail.com](mailto:wafax.4@gmail.com) <br/>
+> Instagram &nbsp; [Edogawafa](https://www.instagram.com/edogawafa/) <br/>
+> [Facebook](https://www.facebook.com/muhammad.wafa.18) <br/>
+> Website &nbsp; [eiwafa.blogspot.com](https://eiwafa.blogspot.com/) <br/>
