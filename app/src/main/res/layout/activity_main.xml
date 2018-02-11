@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="kejar.android.bebas.MainActivity"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="#a5c2e9"
+    >
+
+    <TextView
+        android:layout_marginTop="50px"
+        android:layout_marginBottom="50px"
+        android:id="@+id/angka"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="0"
+        android:textSize="200px"
+        android:textAlignment="center"
+        />
+
+    <ImageButton
+        android:id="@+id/tambah"
+        android:background="#00aaaaaa"
+        android:src="@drawable/btn_plus"
+        android:scaleType="fitCenter"
+        android:layout_width="200px"
+        android:layout_height="200px"
+        />
+
+    <ImageButton
+        android:id="@+id/kurang"
+        android:background="#00aaaaaa"
+        android:src="@drawable/btn_minus"
+        android:scaleType="fitCenter"
+        android:layout_width="150px"
+        android:layout_height="150px" />
+
+    <ImageButton
+        android:background="#00aaaaaa"
+        android:src="@drawable/btn_reset"
+        android:id="@+id/reset"
+        android:scaleType="fitCenter"
+        android:layout_width="150px"
+        android:layout_height="150px"
+        />
+</LinearLayout>
